@@ -1,0 +1,2 @@
+# carolynduran.com
+I created my own personal website in my Website Design and Design Contract classes in high school with the intention of using the website for college gymnastics recruiting. I used Adobe Muse to build the site, and Photoshop and Illustrator to create the graphics. I also learned about hosting services and domain acquisition while using GoDaddy and its Linux platform. I regularly updated the site and sent it to potential college coaches, and I also submitted it to the Pennsylvania Regional Computer Fair where it earned 1st place in the Web Design category.
