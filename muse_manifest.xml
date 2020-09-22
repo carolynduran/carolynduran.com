@@ -1,0 +1,139 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://carolynduran.com" resolutions="1x" timestamp="1503420285283">
+  <folder name="css">
+    <file name="site_global.css" crc="4196570581"/>
+    <file name="master_a-master.css" crc="3893683997" ref="index:helpful-links:updates:about:academics:schedule:news:general-info:gym:routines-and-skills:media:major-achievements:biography:photo-gallery:personal-info"/>
+    <file name="index.css" crc="4284458799" ref="index"/>
+    <file name="helpful-links.css" crc="325611376" ref="helpful-links"/>
+    <file name="updates.css" crc="3928328409" ref="updates"/>
+    <file name="about.css" crc="3779056750" ref="about"/>
+    <file name="academics.css" crc="308308013" ref="academics"/>
+    <file name="schedule.css" crc="4275897594" ref="schedule"/>
+    <file name="news.css" crc="3779056750" ref="news"/>
+    <file name="general-info.css" crc="93839343" ref="general-info"/>
+    <file name="gym.css" crc="3779056750" ref="gym"/>
+    <file name="routines-and-skills.css" crc="3771012953" ref="routines-and-skills"/>
+    <file name="media.css" crc="3779056750" ref="media"/>
+    <file name="major-achievements.css" crc="362376802" ref="major-achievements"/>
+    <file name="biography.css" crc="148553932" ref="biography"/>
+    <file name="photo-gallery.css" crc="189685892" ref="photo-gallery"/>
+    <file name="personal-info.css" crc="4182865413" ref="personal-info"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="museutils.js" crc="4155826306" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="museconfig.js" crc="328327953" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="pie.js" crc="3827607177" ref="index:helpful-links:biography:photo-gallery"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="require.js" crc="228336483" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="webpro.js" crc="4078243563" ref="photo-gallery"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="photo-gallery"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="photo-gallery"/>
+    <file name="touchswipe.js" crc="157639107" ref="photo-gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="header.jpg" crc="346967523" seo="true" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u183.png" crc="4059883652" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u183-r.png" crc="4071605573" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u183-m.png" crc="3782950778" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u183-a.png" crc="4071605573" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u191.png" crc="450322473" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u191-r.png" crc="3761062793" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u191-m.png" crc="352521570" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u191-a.png" crc="3761062793" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:biography:photo-gallery"/>
+    <file name="u1265.png" crc="194954313" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u1265-r.png" crc="377013140" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u1265-m.png" crc="116523010" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u1265-a.png" crc="377013140" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u202.png" crc="4059125375" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u202-r.png" crc="4100432029" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u202-m.png" crc="514906923" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u202-a.png" crc="4100432029" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u209.png" crc="371295506" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u209-r.png" crc="444528730" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u209-m.png" crc="4259777002" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="u209-a.png" crc="444528730" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="804ncd3s-pal_6269.jpg" crc="3770260894" seo="true" ref="index"/>
+    <file name="grey-background-1.jpg" crc="272427292" seo="true" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="footer4.jpg" crc="3807321888" seo="true" ref="index:about:news:gym:media:biography:personal-info:updates:schedule:general-info:routines-and-skills:major-achievements:photo-gallery:helpful-links:academics"/>
+    <file name="rob_9437198x298.jpg" crc="3926573682" seo="true" ref="biography"/>
+    <file name="pal_1264.jpg" crc="4143308993" seo="true" ref="photo-gallery"/>
+    <file name="pal_1251.jpg" crc="205771083" seo="true" ref="photo-gallery"/>
+    <file name="pal_1249.jpg" crc="3764148521" seo="true" ref="photo-gallery"/>
+    <file name="pal_1245.jpg" crc="260132521" seo="true" ref="photo-gallery"/>
+    <file name="pal_1234.jpg" crc="4175988513" seo="true" ref="photo-gallery"/>
+    <file name="807ncd3s-pal_9494.jpg" crc="3768737017" seo="true" ref="photo-gallery"/>
+    <file name="pal_1224.jpg" crc="4228119710" seo="true" ref="photo-gallery"/>
+    <file name="pal_1233.jpg" crc="60110125" seo="true" ref="photo-gallery"/>
+    <file name="008_4736.jpg" crc="4145395775" seo="true" ref="photo-gallery"/>
+    <file name="pal_1251-crop-u3965.jpg" crc="18588180" ref="photo-gallery"/>
+    <file name="pal_1249-crop-u3974.jpg" crc="3861794442" ref="photo-gallery"/>
+    <file name="pal_1245-crop-u3983.jpg" crc="3904669955" ref="photo-gallery"/>
+    <file name="pal_1234-crop-u4001.jpg" crc="3921570215" ref="photo-gallery"/>
+    <file name="807ncd3s-pal_9494-crop-u4010.jpg" crc="4053683583" ref="photo-gallery"/>
+    <file name="pal_1224-crop-u4019.jpg" crc="3858412115" ref="photo-gallery"/>
+    <file name="pal_1233-crop-u4028.jpg" crc="3924222962" ref="photo-gallery"/>
+    <file name="008_4736-crop-u4037.jpg" crc="443901823" ref="photo-gallery"/>
+    <file name="loading.gif" crc="3815509949" ref="photo-gallery"/>
+    <file name="rob_9437.jpg" crc="4094569500" seo="true" ref="photo-gallery"/>
+    <file name="pal_6304.jpg" crc="4035220134" seo="true" ref="photo-gallery"/>
+    <file name="pal_6325.jpg" crc="3962070098" seo="true" ref="photo-gallery"/>
+    <file name="pal_6326.jpg" crc="3811400124" seo="true" ref="photo-gallery"/>
+    <file name="pal_6335.jpg" crc="401369143" seo="true" ref="photo-gallery"/>
+    <file name="pal_6342.jpg" crc="4031915517" seo="true" ref="photo-gallery"/>
+    <file name="pal_6348.jpg" crc="131810300" seo="true" ref="photo-gallery"/>
+    <file name="pal_6353.jpg" crc="4152021928" seo="true" ref="photo-gallery"/>
+    <file name="rob_9419.jpg" crc="126247487" seo="true" ref="photo-gallery"/>
+    <file name="rob_9437-crop-u1206.jpg" crc="4153309552" ref="photo-gallery"/>
+    <file name="pal_6304-crop-u1394.jpg" crc="3822520772" ref="photo-gallery"/>
+    <file name="pal_6325-crop-u1403.jpg" crc="514106788" ref="photo-gallery"/>
+    <file name="pal_6326-crop-u1412.jpg" crc="4199140582" ref="photo-gallery"/>
+    <file name="pal_6335-crop-u1421.jpg" crc="4233116815" ref="photo-gallery"/>
+    <file name="pal_6342-crop-u1430.jpg" crc="4191603457" ref="photo-gallery"/>
+    <file name="pal_6353-crop-u1448.jpg" crc="3872690868" ref="photo-gallery"/>
+    <file name="rob_9419-crop-u1457.jpg" crc="445068591" ref="photo-gallery"/>
+    <file name="4jc_8505.jpg" crc="3909383936" seo="true" ref="photo-gallery"/>
+    <file name="4jc_8512.jpg" crc="4096604503" seo="true" ref="photo-gallery"/>
+    <file name="4jc_8513.jpg" crc="56264842" seo="true" ref="photo-gallery"/>
+    <file name="4jc_8521.jpg" crc="4291189533" seo="true" ref="photo-gallery"/>
+    <file name="4jc_8528.jpg" crc="516014025" seo="true" ref="photo-gallery"/>
+    <file name="4jc_8530.jpg" crc="85968673" seo="true" ref="photo-gallery"/>
+    <file name="4jc_8535.jpg" crc="461554066" seo="true" ref="photo-gallery"/>
+    <file name="4jc_8536-crop-u3400.jpg" crc="4222052681" ref="photo-gallery"/>
+    <file name="5jc_8900.jpg" crc="120804099" seo="true" ref="photo-gallery"/>
+    <file name="5jc_8902.jpg" crc="4221508498" seo="true" ref="photo-gallery"/>
+    <file name="5jc_8903.jpg" crc="298844926" seo="true" ref="photo-gallery"/>
+    <file name="5jc_8918.jpg" crc="3957610751" seo="true" ref="photo-gallery"/>
+    <file name="4jc_8505-crop-u3221.jpg" crc="335282297" ref="photo-gallery"/>
+    <file name="4jc_8512-crop-u3331.jpg" crc="3938372762" ref="photo-gallery"/>
+    <file name="4jc_8513-crop-u3340.jpg" crc="3895022385" ref="photo-gallery"/>
+    <file name="4jc_8521-crop-u3349.jpg" crc="4222288442" ref="photo-gallery"/>
+    <file name="4jc_8528-crop-u3358.jpg" crc="78584823" ref="photo-gallery"/>
+    <file name="4jc_8530-crop-u3367.jpg" crc="170447565" ref="photo-gallery"/>
+    <file name="4jc_8535-crop-u3376.jpg" crc="3983306001" ref="photo-gallery"/>
+    <file name="4jc_853668x45.jpg" crc="4114286287" seo="true" ref="photo-gallery"/>
+    <file name="5jc_8900-crop-u3421.jpg" crc="356420112" ref="photo-gallery"/>
+    <file name="5jc_8902-crop-u3430.jpg" crc="3817642094" ref="photo-gallery"/>
+    <file name="5jc_8903-crop-u3439.jpg" crc="3991423933" ref="photo-gallery"/>
+    <file name="5jc_8918-crop-u3448.jpg" crc="156802079" ref="photo-gallery"/>
+  </folder>
+  <file name="index.html" crc="8691" seo="true" mt="1467079668787" redirect="true"/>
+  <file name="about.html" crc="4075765" seo="true" mt="1467079668787" redirect="true"/>
+  <file name="news.html" crc="251963525" seo="true" mt="1467079668787" redirect="true"/>
+  <file name="gym.html" crc="457471092" seo="true" mt="1467079668787" redirect="true"/>
+  <file name="media.html" crc="365298532" seo="true" mt="1467079668787" redirect="true"/>
+  <file name="biography.html" crc="4095879723" seo="true" mt="1503417780463" redirect="true"/>
+  <file name="personal-info.html" crc="4029277921" seo="true" mt="1503417854945" redirect="true"/>
+  <file name="updates.html" crc="3882272088" seo="true" mt="1503418707140" redirect="true"/>
+  <file name="schedule.html" crc="277101767" seo="true" mt="1503420208536" redirect="true"/>
+  <file name="general-info.html" crc="3946831868" seo="true" mt="1503364267964" redirect="true"/>
+  <file name="routines-and-skills.html" crc="4055336932" seo="true" mt="1503364456745" redirect="true"/>
+  <file name="major-achievements.html" crc="4222084096" seo="true" mt="1503418538879" redirect="true"/>
+  <file name="photo-gallery.html" crc="506416796" seo="true" mt="1503406033330" redirect="true"/>
+  <file name="helpful-links.html" crc="193417607" seo="true" mt="1503418570701" redirect="true"/>
+  <file name="academics.html" crc="430652310" seo="true" mt="1503418114289" redirect="true"/>
+</manifest>
